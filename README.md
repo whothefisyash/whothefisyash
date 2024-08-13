@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/gifs/jesse-pinkman-yeah-bitch-magnets-oh-XGzGnyuUA05uHK0U9W)
+<img src="https://giphy.com/gifs/jesse-pinkman-yeah-bitch-magnets-oh-XGzGnyuUA05uHK0U9W.gif" alt="vf" width="300" height="200">
 <h1 align="center">Yo yo yo Jesse Pinkman here</h1>
 <h3 align="center">Just a curious homosapien who feeds on data and manipulates language models.</h3>
 
