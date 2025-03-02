@@ -1,5 +1,5 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1861675859282075944/40481EF64BA69EE2DEB109609672D9D59D87431F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="vf" width="1200" height="200">
-<h1 align="center">Yo yo yo Jesse Pinkman here</h1>
+<!-- <img src="https://steamuserimages-a.akamaihd.net/ugc/1861675859282075944/40481EF64BA69EE2DEB109609672D9D59D87431F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="vf" width="1200" height="200">
+<!-- <h1 align="center">Yo yo yo Jesse Pinkman here</h1> -->
 <h3 align="center">Just a curious homosapien who feeds on data and manipulates language models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whothefisyash&label=Profile%20views&color=0e75b6&style=flat" alt="whothefisyash" /> </p>
